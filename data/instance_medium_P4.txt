@@ -15,7 +15,7 @@ n_storage = 2
 7, 6, 4, 14
 
 # number of capture sites
-n_capture = 5
+n_capture = 9
 # description of the capture sites
 # -- id, coord_x, coord_y, E
 #	* each row corresponds to 1 site
